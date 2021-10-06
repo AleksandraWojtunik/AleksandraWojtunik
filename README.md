@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleksandraWojtunik
-- 👀 I’m interested in music, hiking and scrapbooking
+- 👀 I’m interested in music, hiking, cats and scrapbooking
 - 🌱 I’m currently learning Git and Postman
 - 💞️ I’m looking to collaborate on software testing
 - 📫 How to reach me: aleksandrawojtunik@tlen.pl
